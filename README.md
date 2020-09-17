@@ -32,6 +32,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-* For Contect you can contect :
-  [Email](dprasadbairwa@gmail.com)
+* ##For Contect you can contect :##
+  Email : dprasadbairwa1997@gmail.com
   
